@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 King Yowel  💝'
 global.premium = 'true'
-global.packname = '💝 Queen yowel 💝 Created By 💝 Yowel Official²⁰²³ 💝' 
+global.packname = '💝 King yowel 💝 Created By 💝 Yowel Official²⁰²³ 💝' 
 global.author = '💝 Yowel dx Official²⁰²³ 💝' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
